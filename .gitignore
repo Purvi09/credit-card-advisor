@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+backend/venv/
+frontend/venv/
+
+# Environment files
+backend/.env
+
+# Databases
+backend/data/cards.db
+
+# Streamlit cache
+frontend/.streamlit/

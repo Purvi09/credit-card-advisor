@@ -1,0 +1,202 @@
+[
+  {
+    "name": "HDFC Millennia Credit Card",
+    "issuer": "HDFC Bank",
+    "annual_fee": 1000,
+    "reward_type": "Cashback - 5% on Amazon, Flipkart, Swiggy",
+    "eligibility": "Minimum monthly income ₹35,000",
+    "min_income": 35000,
+    "perks": ["4 complimentary lounge visits/year", "1% fuel surcharge waiver"],
+    "apply_link": "https://www.hdfcbank.com/millennia"
+  },
+  {
+    "name": "HDFC Diners Club Privilege Credit Card",
+    "issuer": "HDFC Bank",
+    "annual_fee": 2500,
+    "reward_type": "Reward Points - 4 RP per ₹150 spent",
+    "eligibility": "Minimum income ₹60,000/month",
+    "min_income": 60000,
+    "perks": ["12 complimentary airport lounges/year", "Complimentary Club Marriott membership"],
+    "apply_link": "https://www.hdfcbank.com/diners-privilege"
+  },
+  {
+    "name": "ICICI Amazon Pay Credit Card",
+    "issuer": "ICICI Bank",
+    "annual_fee": 0,
+    "reward_type": "Cashback - 5% for Prime members on Amazon",
+    "eligibility": "Minimum monthly income ₹25,000",
+    "min_income": 25000,
+    "perks": ["No joining/annual fee", "Fuel surcharge waiver"],
+    "apply_link": "https://www.icicibank.com/amazonpay"
+  },
+  {
+    "name": "Axis Bank Ace Credit Card",
+    "issuer": "Axis Bank",
+    "annual_fee": 499,
+    "reward_type": "Cashback - 5% on Google Pay, 2% elsewhere",
+    "eligibility": "Minimum income ₹30,000/month",
+    "min_income": 30000,
+    "perks": ["1% fuel surcharge waiver", "Mobile recharge & DTH cashback"],
+    "apply_link": "https://www.axisbank.com/ace"
+  },
+  {
+    "name": "Axis Bank Vistara Signature Credit Card",
+    "issuer": "Axis Bank",
+    "annual_fee": 3000,
+    "reward_type": "Travel Miles - Club Vistara points per ₹200",
+    "eligibility": "Minimum income ₹50,000/month",
+    "min_income": 50000,
+    "perks": ["Complimentary Vistara tickets", "Airport lounge access"],
+    "apply_link": "https://www.axisbank.com/vistara-signature"
+  },
+  {
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI Card",
+    "annual_fee": 499,
+    "reward_type": "Reward Points - 10X on online spends",
+    "eligibility": "Minimum income ₹25,000/month",
+    "min_income": 25000,
+    "perks": ["Amazon e-voucher worth ₹500 on joining", "1% fuel surcharge waiver"],
+    "apply_link": "https://www.sbicard.com/simplyclick"
+  },
+  {
+    "name": "SBI Prime Credit Card",
+    "issuer": "SBI Card",
+    "annual_fee": 2999,
+    "reward_type": "Reward Points - 10X on dining, groceries, travel",
+    "eligibility": "Minimum income ₹60,000/month",
+    "min_income": 60000,
+    "perks": ["Complimentary Club Vistara membership", "Lounge access"],
+    "apply_link": "https://www.sbicard.com/prime"
+  },
+  {
+    "name": "American Express Membership Rewards Card",
+    "issuer": "American Express",
+    "annual_fee": 1500,
+    "reward_type": "Reward Points - Up to 1000 bonus points/month",
+    "eligibility": "Minimum income ₹50,000/month",
+    "min_income": 50000,
+    "perks": ["Exclusive merchant offers", "Zero lost card liability"],
+    "apply_link": "https://www.americanexpress.com/in/rewards"
+  },
+  {
+    "name": "Amazon Pay ICICI Platinum Credit Card",
+    "issuer": "ICICI Bank",
+    "annual_fee": 0,
+    "reward_type": "Cashback - Up to 5% on Amazon purchases",
+    "eligibility": "Minimum income ₹20,000/month",
+    "min_income": 20000,
+    "perks": ["No joining/annual fee", "Fuel surcharge waiver"],
+    "apply_link": "https://www.icicibank.com/amazonpay"
+  },
+  {
+    "name": "Axis Bank Flipkart Credit Card",
+    "issuer": "Axis Bank",
+    "annual_fee": 500,
+    "reward_type": "Cashback - 5% on Flipkart, Myntra, Swiggy",
+    "eligibility": "Minimum income ₹25,000/month",
+    "min_income": 25000,
+    "perks": ["4 lounge visits/year", "1.5% cashback on other spends"],
+    "apply_link": "https://www.axisbank.com/flipkart"
+  },
+  {
+    "name": "HDFC Regalia Credit Card",
+    "issuer": "HDFC Bank",
+    "annual_fee": 2500,
+    "reward_type": "Reward Points - 4 RP per ₹150 spent",
+    "eligibility": "Income above ₹70,000/month",
+    "min_income": 70000,
+    "perks": ["Airport lounge access", "Travel insurance coverage"],
+    "apply_link": "https://www.hdfcbank.com/regalia"
+  },
+  {
+    "name": "IndusInd Legend Credit Card",
+    "issuer": "IndusInd Bank",
+    "annual_fee": 999,
+    "reward_type": "Reward Points - 1 RP per ₹100 spent",
+    "eligibility": "Minimum income ₹40,000/month",
+    "min_income": 40000,
+    "perks": ["Complimentary golf sessions", "Fuel surcharge waiver"],
+    "apply_link": "https://www.indusind.com/legend"
+  },
+  {
+    "name": "YES Bank Prosperity Rewards Plus",
+    "issuer": "YES Bank",
+    "annual_fee": 399,
+    "reward_type": "Reward Points - 4 RP per ₹200 spent",
+    "eligibility": "Minimum income ₹25,000/month",
+    "min_income": 25000,
+    "perks": ["Fuel surcharge waiver", "Instant EMI conversion"],
+    "apply_link": "https://www.yesbank.in/prosperity"
+  },
+  {
+    "name": "Kotak Royale Signature Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "annual_fee": 999,
+    "reward_type": "Reward Points - 4x on travel, dining, entertainment",
+    "eligibility": "Minimum income ₹50,000/month",
+    "min_income": 50000,
+    "perks": ["Lounge access", "Fuel surcharge waiver"],
+    "apply_link": "https://www.kotak.com/royale"
+  },
+  {
+    "name": "HSBC Cashback Credit Card",
+    "issuer": "HSBC Bank",
+    "annual_fee": 750,
+    "reward_type": "Cashback - 1.5% on all spends",
+    "eligibility": "Minimum income ₹30,000/month",
+    "min_income": 30000,
+    "perks": ["No joining fee", "Zero annual fee for first year"],
+    "apply_link": "https://www.hsbc.co.in/cashback"
+  },
+  {
+    "name": "Standard Chartered Smart Credit Card",
+    "issuer": "Standard Chartered Bank",
+    "annual_fee": 499,
+    "reward_type": "Cashback - 2% on online spends",
+    "eligibility": "Minimum income ₹25,000/month",
+    "min_income": 25000,
+    "perks": ["1% fuel surcharge waiver", "EMI facility"],
+    "apply_link": "https://www.sc.com/in/smart-card"
+  },
+  {
+    "name": "RBL Bank Platinum Maxima Card",
+    "issuer": "RBL Bank",
+    "annual_fee": 2000,
+    "reward_type": "Reward Points - 2x on weekend spends",
+    "eligibility": "Minimum income ₹40,000/month",
+    "min_income": 40000,
+    "perks": ["Lounge access", "Fuel surcharge waiver"],
+    "apply_link": "https://www.rblbank.com/maxima"
+  },
+  {
+    "name": "IDFC FIRST Wealth Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "annual_fee": 0,
+    "reward_type": "Reward Points - 10x on online & travel",
+    "eligibility": "Minimum income ₹35,000/month",
+    "min_income": 35000,
+    "perks": ["Lifetime free card", "Airport lounge access"],
+    "apply_link": "https://www.idfcfirstbank.com/wealth"
+  },
+  {
+    "name": "AU Bank Zenith Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "annual_fee": 7999,
+    "reward_type": "Reward Points - 1 RP per ₹100",
+    "eligibility": "Minimum income ₹1 lakh/month",
+    "min_income": 100000,
+    "perks": ["Complimentary golf sessions", "Premium lounge access"],
+    "apply_link": "https://www.aubank.in/zenith"
+  },
+  {
+    "name": "BOB Eterna Credit Card",
+    "issuer": "Bank of Baroda",
+    "annual_fee": 2499,
+    "reward_type": "Reward Points - 15 RP per ₹1000 spent on travel",
+    "eligibility": "Minimum income ₹60,000/month",
+    "min_income": 60000,
+    "perks": ["Complimentary airport lounge access", "Fuel surcharge waiver"],
+    "apply_link": "https://www.bobfinancial.com/eterna"
+  }
+]
