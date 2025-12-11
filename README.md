@@ -8,8 +8,7 @@ This project includes:
 - **SQLite database** — stores credit card details (loaded from JSON)
 
 
-## Demo
-> [Watch the demo video here](https://drive.google.com/file/d/1aAOBp5Vd3d3mpWRhoisnl1bgMLdUc_hz/view?usp=sharing)
+
 
 
 ## Project Structure
@@ -123,8 +122,4 @@ It ensures:
 3. Context retention between messages  
 4. Step-by-step interaction (not a single response)  
 
-## Author
-
-Kritika Agrawal  
-Junior Software Developer @ Q3 Technologies  
-B.Tech, NIT Kurukshetra (Production & Industrial Engineering, 2024)  
+ 
